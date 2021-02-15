@@ -18,7 +18,9 @@ python
 ## Contact Information 
 
 Phone: +254741906738
+
 Email: chegerofelix@gmail.com
+
 Follow on twitter @felix_chegero
 
 ## Copyright and Lisence Information
