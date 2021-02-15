@@ -9,7 +9,8 @@ class Credential:
         Credential_list = [] # empty credentials list
 
 
-    def __init__(self,account,username, password):
+    def __init__(self, account, username, password):    
+
         """
         method that defines user credential to be stored
         """
